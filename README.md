@@ -4,7 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishpinjari40&label=Profile%20views&color=0e75b6&style=flat" alt="danishpinjari40" /> </p>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
-, I'm Danish Pinjari</h1>
+<img width = '60%' align= 'center' src="https://readme-typing-svg.demolab.com?font=cascadia+code&pause=1000&color=F7F0E4&width=435&lines=I+am+Danish+Pinjari"/>
+</h1>
+
+
+
+
+
 
 <h3>MERN stack developer<h3/>
 <h4>
@@ -67,6 +73,8 @@
 </a>
 
 ![ GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=danishpinjari40)
+
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
