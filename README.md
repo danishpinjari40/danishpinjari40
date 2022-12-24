@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **Projects Tech Articles**
+- 👯 See My Resume :-   <a href = 'https://drive.google.com/file/d/1WQ1pO7w6ezuyGwCxA5GT1jjnPTSMT4F1/view?usp=share_link'>Resume ↓</a> 
 
 - 👨‍💻 All of my projects are available at <a href="https://danishpinjari40.github.io/">Protfolio link</a>
 
@@ -39,31 +39,33 @@
 ### Frontend  
 <div >  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+ <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/96814912/205337251-2a9ae0a1-e320-4ece-a986-4417a99cf05c.png" alt="Redux" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/96814912/205337251-2a9ae0a1-e320-4ece-a986-4417a99cf05c.png" alt="Redux" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
 
-### Backend  
-<div>  
+<!-- ### Backend   -->
+<!-- <div>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/96814912/205335046-32293e5c-7659-4a19-8516-a2925092bbdf.png" alt="Node.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EoRJu321RSf8QQZR8XJ2zL7LIDHsQhRfwQ&usqp=CAU" alt="MongoDB" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/96814912/205336409-678c8325-de7b-468b-a49d-a718256d4926.png" alt="Express.js" height="50" /></a>  
-</div>
+</div> -->
 <br>
 
 
 ## My GitHub Stats 📊
+ <a href="https://github.com/danishpinjari40">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishpinjari40" />
+</a>
 <a href="https://github.com/danishpinjari40">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danishpinjari40" />
 </a>
-<a href="https://github.com/danishpinjari40">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishpinjari40" />
-</a>
+
 <a href="https://github.com/danishpinjari40">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=danishpinjari40&count_private=true&show_icons=true&theme=radical" />
 </a>
