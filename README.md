@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 See My Resume :-   <a href = 'https://drive.google.com/file/d/1WQ1pO7w6ezuyGwCxA5GT1jjnPTSMT4F1/view?usp=share_link'>Resume ↓</a> 
+- 👯 See My Resume :-   <a href = 'https://drive.google.com/file/d/1zivUmR_PBOofzTvJyAu0cwBroU3Wc6G2/view?usp=share_link'>Resume ↓</a> 
 
 - 👨‍💻 All of my projects are available at <a href="https://danishpinjari40.github.io/">Protfolio link</a>
 
