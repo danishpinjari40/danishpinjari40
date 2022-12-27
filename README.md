@@ -17,13 +17,15 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 See My Resume :-  [Resume ↓](https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link)
+- 👯 See My Resume :-  [Resume ↓](https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link){:target="_blank" rel="noopener noreferrer"}
  
 <!-- 	<a 
    target="_blank"
    rel="noopener noreferrer"
    href = 'https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link'>Resume ↓</a> -->
-
+[go](http://stackoverflow.com){:target="_blank"}.
+       [New Go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+       
 - 👨‍💻 All of my projects are available at <a href="https://danishpinjari40.github.io/">Protfolio link</a>
 
 - 💬 Ask me about **HTML ,CSS, JavaScript, React, Redux, Algorithms**
