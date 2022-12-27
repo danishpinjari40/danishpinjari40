@@ -23,7 +23,7 @@
    target="_blank"
    rel="noopener noreferrer"
    href = 'https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link'>Resume ↓</a> -->
-[go](http://stackoverflow.com){:target="_blank"}.
+<a>[go](http://stackoverflow.com){:target="_blank"}</a>
        [New Go](http://stackoverflow.com){:target="_blank" rel="noopener"}
        
 - 👨‍💻 All of my projects are available at <a href="https://danishpinjari40.github.io/">Protfolio link</a>
