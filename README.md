@@ -61,12 +61,12 @@
 
 
 ## My GitHub Stats 📊
-    ![ GitHub streak stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=danishpinjari40)  
+ 
        
 <!--  <a href="https://github.com/danishpinjari40">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishpinjari40" />
 </a> -->
-<a href="https://github.com/danishpinjari40">
+<!-- <a href="https://github.com/danishpinjari40">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danishpinjari40" />
 </a>
 
@@ -75,16 +75,21 @@
 </a>
        <a href="https://github.com/danishpinjari40">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishpinjari40&amp;theme=radical" />
-</a>
+</a> -->
 <!--       -->
        
 <!-- <img src="https://camo.githubusercontent.com/6cb8662ee72fa10609f2f2d8dedf27818003f251338e547bc556fd4332a9e4ed/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6965737061726167267468656d653d736f6c6172697a65645f6461726b" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishpinjari40&amp;theme=radical" style="max-width: 100%;"> -->
        
+![ GitHub streak stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=danishpinjari40&theme=radical&show_icons=true)     
+![ GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=danishpinjari40&theme=radical&show_icons=true)
+![ GitHub streak stats ](https://github-readme-stats.vercel.app/api?username=danishpinjari40&count_private=true&show_icons=true&theme=radical)
+![ GitHub streak stats ](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danishpinjari40&amp;theme=radical&amp;utcOffset=8)
+![ GitHub streak stats ](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishpinjari40&amp&theme=radical)
+![ GitHub streak stats ](https://github-profile-trophy.vercel.app/?username=danishpinjari40&theme=radical&show_icons=true)
+![ GitHub streak stats ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishpinjari40&amp&theme=radical&show_icons=true)
+
+
        
-![ GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=danishpinjari40)
-
-
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
  
