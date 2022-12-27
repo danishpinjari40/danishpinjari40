@@ -61,9 +61,11 @@
 
 
 ## My GitHub Stats 📊
- <a href="https://github.com/danishpinjari40">
+    ![ GitHub streak stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=danishpinjari40)  
+       
+<!--  <a href="https://github.com/danishpinjari40">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishpinjari40" />
-</a>
+</a> -->
 <a href="https://github.com/danishpinjari40">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=danishpinjari40" />
 </a>
