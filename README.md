@@ -1,5 +1,6 @@
 
-<img src="https://user-images.githubusercontent.com/96814912/205312620-34eb2eaa-80f4-43da-818a-6b74551f7d26.png" align="center"  />
+
+<img src="https://user-images.githubusercontent.com/96814912/209623050-cde20e15-01cd-4d01-9514-8f5ee7fae182.png" align="center"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishpinjari40&label=Profile%20views&color=0e75b6&style=flat" alt="danishpinjari40" /> </p>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> 
@@ -8,14 +9,15 @@
  
 
 
-<h3>MERN stack developer<h3/>
+<h3>Front-End Web developer<h3/>
+
 <h4>
       I am passionate about building websites 👨🏻‍💻 and learning about new web technologies. Take a look at some cool projects I've created. Hard work isn't as effective as smart work. Keeping up with new technology 🧑🏼‍💻 is one of my hobbies, as well as watching superhero movies 🎥 and reading business books 📚. 
 <h4/>
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 See My Resume :-   <a href = 'https://drive.google.com/file/d/1zivUmR_PBOofzTvJyAu0cwBroU3Wc6G2/view?usp=share_link'>Resume ↓</a> 
+- 👯 See My Resume :-   <a href = 'https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link'>Resume ↓</a> 
 
 - 👨‍💻 All of my projects are available at <a href="https://danishpinjari40.github.io/">Protfolio link</a>
 
