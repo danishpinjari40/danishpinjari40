@@ -23,7 +23,7 @@
    target="_blank"
    rel="noopener noreferrer"
    href = 'https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link'>Resume ↓</a> -->
-<a href="placeholder.com" target="_blank">Opens in new tab</a>
+[Opens in new tab](https://external.ink?to=/placeholder.com)
        
 - 👨‍💻 All of my projects are available at <a href="https://danishpinjari40.github.io/">Protfolio link</a>
 
