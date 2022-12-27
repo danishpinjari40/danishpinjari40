@@ -17,17 +17,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 See My Resume :-  [Resume ↓](https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link){:target="_blank" rel="noopener noreferrer"}
- 
-<!-- 	<a 
-   target="_blank"
-   rel="noopener noreferrer"
-   href = 'https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link'>Resume ↓</a> -->
-[Opens in new tab](https://external.ink?to=/placeholder.com)
+- 👯 See My Resume :-  [Resume ↓](https://drive.google.com/file/d/1cvMj16tcf5CqT7LBfUQP20uNkNd8OnG_/view?usp=share_link)
        
 - 👨‍💻 All of my projects are available at <a href="https://danishpinjari40.github.io/">Protfolio link</a>
 
-- 💬 Ask me about **HTML ,CSS, JavaScript, React, Redux, Algorithms**
+- 💬 Ask me about **HTML ,CSS, JavaScript, React, Redux, BootStrap**
   
 - 📫 How to reach me <a href ='mailto:danishpinjari40@gmail.com'><img width = '32px' align= 'center' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/></a> 
   **danishpinjari40@gmail.com** 
@@ -77,7 +71,14 @@
 <a href="https://github.com/danishpinjari40">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=danishpinjari40&count_private=true&show_icons=true&theme=radical" />
 </a>
-
+       <a href="https://github.com/danishpinjari40">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishpinjari40&amp;theme=radical" />
+</a>
+<!--       -->
+       
+<!-- <img src="https://camo.githubusercontent.com/6cb8662ee72fa10609f2f2d8dedf27818003f251338e547bc556fd4332a9e4ed/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6965737061726167267468656d653d736f6c6172697a65645f6461726b" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishpinjari40&amp;theme=radical" style="max-width: 100%;"> -->
+       
+       
 ![ GitHub streak stats ](https://github-readme-streak-stats.herokuapp.com/?user=danishpinjari40)
 
 
